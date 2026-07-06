@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<!--
+  Canonical/hreflang URLs below are written against the GitHub Pages
+  preview (https://maciek-czapnik.github.io/nalewarki_redesign/).
+  At DNS cutover to the live domain, do a global find-and-replace of
+  that base URL (here, in every page's <head>, and in the two
+  formularz-oferty.html/kontakt.html _next hidden fields) before
+  relaunching.
+-->
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/en/</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/oferta.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/oferta.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/oferta.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/oferta.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/en/oferta.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/oferta.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/oferta.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/oferta.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/nalewarki-do-butelek.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/nalewarki-do-butelek.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/nalewarki-do-butelek.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/nalewarki-do-butelek.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/en/nalewarki-do-butelek.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/nalewarki-do-butelek.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/nalewarki-do-butelek.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/nalewarki-do-butelek.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/etykieciarki-automatyczne.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/etykieciarki-automatyczne.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/etykieciarki-automatyczne.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/etykieciarki-automatyczne.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/en/etykieciarki-automatyczne.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/etykieciarki-automatyczne.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/etykieciarki-automatyczne.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/etykieciarki-automatyczne.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/stoly-obrotowe.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/stoly-obrotowe.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/stoly-obrotowe.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/stoly-obrotowe.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/en/stoly-obrotowe.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/stoly-obrotowe.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/stoly-obrotowe.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/stoly-obrotowe.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/podajniki-zakretek.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/podajniki-zakretek.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/podajniki-zakretek.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/podajniki-zakretek.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/en/podajniki-zakretek.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/podajniki-zakretek.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/podajniki-zakretek.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/podajniki-zakretek.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/drukarki-przemyslowe.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/drukarki-przemyslowe.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/drukarki-przemyslowe.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/drukarki-przemyslowe.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/en/drukarki-przemyslowe.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/drukarki-przemyslowe.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/drukarki-przemyslowe.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/drukarki-przemyslowe.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/nietypowe-rozwiazania.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/nietypowe-rozwiazania.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/nietypowe-rozwiazania.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/nietypowe-rozwiazania.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/en/nietypowe-rozwiazania.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/nietypowe-rozwiazania.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/nietypowe-rozwiazania.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/nietypowe-rozwiazania.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/finansowanie.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/finansowanie.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/finansowanie.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/finansowanie.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/en/finansowanie.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/finansowanie.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/finansowanie.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/finansowanie.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/kim-jestesmy.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/kim-jestesmy.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/kim-jestesmy.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/kim-jestesmy.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/en/kim-jestesmy.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/kim-jestesmy.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/kim-jestesmy.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/kim-jestesmy.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/kontakt.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/kontakt.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/kontakt.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/kontakt.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/en/kontakt.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/kontakt.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/kontakt.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/kontakt.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/faq.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/faq.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/faq.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/faq.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/en/faq.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/faq.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/faq.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/faq.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/formularz-oferty.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/formularz-oferty.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/formularz-oferty.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/formularz-oferty.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/en/formularz-oferty.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/formularz-oferty.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/formularz-oferty.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/formularz-oferty.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/polityka-1.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/polityka-1.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/polityka-1.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/polityka-1.html"/>
+</url>
+<url>
+  <loc>https://maciek-czapnik.github.io/nalewarki_redesign/en/polityka-1.html</loc>
+  <xhtml:link rel="alternate" hreflang="pl" href="https://maciek-czapnik.github.io/nalewarki_redesign/polityka-1.html"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://maciek-czapnik.github.io/nalewarki_redesign/en/polityka-1.html"/>
+  <xhtml:link rel="alternate" hreflang="x-default" href="https://maciek-czapnik.github.io/nalewarki_redesign/polityka-1.html"/>
+</url>
+</urlset>

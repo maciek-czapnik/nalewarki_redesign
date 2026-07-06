@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /dziekujemy.html
+Disallow: /en/dziekujemy.html
+
+Sitemap: https://maciek-czapnik.github.io/nalewarki_redesign/sitemap.xml
